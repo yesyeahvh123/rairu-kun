@@ -9,7 +9,7 @@
 
 ### Deploy Tutorial for Railway
 
-1. Create [Railway Account](https://railway.app?referralCode=BwO6_M) account or use an existing account.
+1. Create [Railway Account](https://railway.app) account or use an existing account.
 
 2. Create [Ngrok Account](https://dashboard.ngrok.com/).
 
@@ -21,38 +21,10 @@ ps: One ngrok account can only use 1 active agent, if you want to run multiple a
 
 Click the Railway button at the Below 
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/BzFWCH?referralCode=dG01iI)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/BzFWCH)
 
 Fill the `NGROK_TOKEN` with your Token.
 
 `PORT` default port is 22.
 
 `REGION` default Region is ap, But you can also change to the nearest server.
-
-## Bahasa Indonesia 🇮🇩
-
-### VPS Gratis SEUMUR HIDUP!!!
-
-### Tutorial Deploy VPS
-1. Buat [Akun Railway](https://railway.app?referralCode=BwO6_M) atau gunakan akun yang ada.
-
-2. Buat atau login ke [Akun Ngrok](https://dashboard.ngrok.com/).
-
-3. Dapatkan [Token Ngrok](https://dashboard.ngrok.com/auth) salin 'Authtoken'
-
-ps: Satu akun ngrok hanya dapat menggunakan 1 agen aktif, jika Anda ingin menjalankan beberapa agen, Anda harus mengupgrade akun Anda.
-
-## Waktunya Deploy 🔥
-Klik tombol dibawah ini ⬇️
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/BzFWCH?referralCode=dG01iI)
-
-Isi ```NGROK_TOKEN``` dengan Tokenmu.
-
-Isi `PORT` port bawaan 22.
-
-Isi `REGION` Region bawaan ap, tapi kamu juga bisa mengubah ke server terdekat.
-
-## Enjoy the vps? Let's Treat the author to coffee ☕
-
-paypal: https://paypal.me/dedeklender
